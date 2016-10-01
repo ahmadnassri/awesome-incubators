@@ -32,8 +32,8 @@
 
 ### Toronto
 
-Toronto --- [Artscape](http://www.artscapelaunchpad.ca) - 171 East Liberty Stree
-Toronto --- [Biomedical Zone](http://biomedicalzone.ca/) - 209 Victoria Street
+- [Artscape](http://www.artscapelaunchpad.ca) - 171 East Liberty Stree
+- [Biomedical Zone](http://biomedicalzone.ca/) - 209 Victoria Street
 - [Blueline Bioscience](http://www.bluelinebio.com/) - 101 College St,
 - [Canada’s Music Incubator](http://www.canadasmusicincubator.com/) - 1731 Lawrence Avenue East
 - [CEO Fusion](http://www.ceofusion.org/) - 70 Peter Street
