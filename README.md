@@ -62,7 +62,7 @@
 
 ### Paris
 
-- [1000 Startups](http://halle-freyssinet.com/) - 55 Boulevard Vincent Auriol
+- [Station F](http://stationf.co/) - 55 Boulevard Vincent Auriol
 - [50 Partners](http://en.50partners.fr/) - 62 rue Jean Jacques Rousseau
 - [Agoranov](http://www.agoranov.com/) - 96 Boulevard Raspail
 - [Ateliers de Paris](http://www.ateliersdeparis.com/) - 30 Rue du Faubourg Saint-Antoine
