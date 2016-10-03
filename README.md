@@ -41,6 +41,7 @@
 - [DMZ at Ryerson University](http://dmz.ryerson.ca/) - 10 Dundas Street East
 - [George Brown College – Digital Media and Gaming Incubator](http://www.gaminginc.ca/) - 333 King Street East
 - [HELIX at Seneca College](http://www.senecacollege.ca/research/HELIX) - 1750 Finch Avenue East
+- [The Joe Fresh Centre for Fashion Innovation](http://www.joefreshcentre.com/) - 10 Dundas Street East
 - [Toronto Fashion Incubator](http://www.fashionincubator.com/) - 285 MANITOBA DRIVE
 - [York Entrepreneurship Development Institute Accelerator](http://www.yedinstitute.org/) - 4700 Keele Street
 
